@@ -38,8 +38,8 @@ A curated online art gallery built with React and Vite, featuring a refined lave
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/lavender-burgundy-gallery.git
-cd lavender-burgundy-gallery
+git clone https://github.com/your-username/Gallery_for_me.git
+cd Gallery_for_me
 
 # Install dependencies
 npm install
